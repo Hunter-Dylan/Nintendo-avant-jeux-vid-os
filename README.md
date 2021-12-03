@@ -1,4 +1,4 @@
-# Nintendo-avant-jeux-vid-os
+# Nintendo avant jeux videos
 
 ## 1889-1949: L'ère des cartes
 Fonder le 23 septembre 1889 par Fusajiro Yamauchi à Kyoto, Nintendo avait comme objectif principal de produire et de vendre des cartes Hanafuda faits à la main
