@@ -1,7 +1,7 @@
 # Nintendo-avant-jeux-vid-os
 
-## Cartes 1889
+## 1889-1949: L'ère des cartes
 
-## Jouets 1966
+## 1966-1972: L'ère des jouets
 
-## Jeux vidéos 1972
+## 1972-present: L'ère des jeux vidéos
